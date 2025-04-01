@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Combat Techniques</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #121212;
+            color: white;
+        }
+        header {
+            background-color: #222;
+            padding: 20px;
+            text-align: center;
+            font-size: 24px;
+        }
+        .container {
+            padding: 20px;
+        }
+        .technique {
+            background-color: #333;
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 8px;
+        }
+        .defensive {
+            background-color: #f4f4f4;
+            color: black;
+        }
+    </style>
+</head>
+<body>
+    <header>Combat Techniques</header>
+    <div class="container">
+        <div class="technique offensive">
+            <h2>Punching Techniques</h2>
+            <p>Learn powerful striking techniques from boxing and Muay Thai.</p>
+        </div>
+        <div class="technique defensive">
+            <h2>Blocking & Dodging</h2>
+            <p>Master defensive techniques to avoid strikes and counterattack.</p>
+        </div>
+    </div>
+</body>
+</html>
